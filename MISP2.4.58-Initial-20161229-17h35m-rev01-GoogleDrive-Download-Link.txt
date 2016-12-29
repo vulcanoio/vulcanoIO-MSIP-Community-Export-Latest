@@ -1,0 +1,42 @@
+(Restricting File Size Limit in Github)
+ 
+Google Drive Link:
+
+https://drive.google.com/drive/folders/0B_2EeBBxEJhudThfQ3hXSFh4MUE?usp=sharing
+
+file size     (7zip)356,2 MB (356.182.228 bytes)
+
+MD5		58695a04275b172f84997b22a3f553a8
+SHA1	e58f25b620a5b70571e2539d63aedcd5cffcbeed
+SHA256	fd6aa6dcdbbc7a8515e98467024695fc44ef56e8663c4c8446fe268c10111ce9
+
+Upload MISP-2.4.58-29122016-17h35m.7z
+
+7zip tool (Windows, Linux and MacOS):
+http://www.7-zip.org/download.html
+
+https://www.circl.lu/assets/files/misp-training/MISP_v2.4.58.ova
+
+(most recent) Virtual image with MISP 2.4.58  SHA1 sum: 373b3c878a7d8497096aaec8bf8f213fbd17b61a
+Login and passwords for the VirtualBox MISP image are the following:
+
+https://www.circl.lu/services/misp-training-materials/#misp-virtual-machine
+
+Web interface (default network settings): http://192.168.56.50/
+MISP admin:  admin@misp.training/Password1234
+MISP user:  user@misp.training/Password1234
+Shell/SSH: misp/Password1234
+MySQL:  root/Password1234 - misp/Password1234
+
+Changelog:
+misp.csv_all.ADMIN.csv
+misp.csv_sig.ADMIN.csv
+misp.json.ADMIN.json
+misp.bro.ADMIN.intel
+misp.md5.ADMIN.txt
+misp.rpz.ADMIN.txt
+misp.sha1.ADMIN.txt
+misp.sha256.ADMIN.txt
+misp.snort.ADMIN.rules
+misp.suricata.ADMIN.rules
+misp.xml.ADMIN.xml
