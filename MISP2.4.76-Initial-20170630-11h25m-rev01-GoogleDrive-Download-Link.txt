@@ -1,0 +1,41 @@
+(Restricting File Size Limit in Github)
+ 
+Google Drive Link:
+
+https://drive.google.com/drive/folders/0B_2EeBBxEJhuaUhvdG14TDNxeWM?usp=sharing
+
+file size     (7zip) 402.9 MB (402,860,719 bytes)
+
+MD5		3ae55ee3afb575c4c18e6e585217b670
+SHA1		60233f3ac068e42bcad8268f91c79b20ad52ae3a
+SHA256		f0621295b065ebcb01d3c2e90fa23a9a9f176314f6a94a3162bbda8d3e223561
+
+Upload MISP2.4-76-20170630-11h25m.7z
+
+7zip tool (Windows, Linux and MacOS):
+http://www.7-zip.org/download.html
+
+https://www.circl.lu/assets/files/misp-training/MISP_v2.4.76.ova
+
+(most recent) Virtual image with MISP 2.4.76 SHA512 sum: 420795cd5066cdec140a220a18ad2be02f219bd121259d51cb7cc23a7e49fe86bf5bf22aa292d5958d394c8a834a94970d7fb96b3c89cd3dfe93f93a9cc5984b SHA1 sum: 4776a76078e2414fb3d5c560afc2d979b8a81183
+
+https://www.circl.lu/services/misp-training-materials/#misp-virtual-machine
+
+Web interface (default network settings): http://192.168.56.50/
+MISP admin:  admin@misp.training/Password1234
+MISP user:  user@misp.training/Password1234
+Shell/SSH: misp/Password1234
+MySQL:  root/Password1234 - misp/Password1234
+
+Changelog:
+misp.bro.ADMIN.intel
+misp.csv_all.ADMIN.csv
+misp.csv_sig.ADMIN.csv
+misp.json.ADMIN.json
+misp.md5.ADMIN.txt
+misp.rpz.ADMIN.txt
+misp.sha1.ADMIN.txt
+misp.sha256.ADMIN.txt
+misp.snort.ADMIN.rules
+misp.suricata.ADMIN.rules
+misp.xml.ADMIN.xml
